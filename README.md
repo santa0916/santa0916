@@ -7,15 +7,15 @@
 
 ## 💬 Talk with me 
 
-💧 FrontEnd: React, Next.js, Remix, Vue, Redux, , TailwindCSS, SCSS, Javascript, ES6+, Typescript, WordPress, Shopify
+💧 FrontEnd: React, Next.js, Vue, TailwindCSS, SCSS, Javascript/Typescript
 
-🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, RESTFul API, PostgreSQL, AI, ML
+🔸 BackEnd: Node.js, PHP, Laravel, ExpressJS, Nest.js, Python, Django, Flask, RESTFul API
 
 ☀️ Mobile App: React Native, Android Java, C#
 
-🚀 Database: PostgreSQL, MySQL, MongoDB, Redis, ORM(TypeORM, Sequelize, Prisma, SQLAlchemy), Knex
+🚀 Database: PostgreSQL, MySQL, MongoDB, Redis, ORM(TypeORM, Sequelize, Prisma, SQLAlchemy)
 
-💥 Others: D3.js, ChartJS, React-hook-form, Three.js, Apollo GraphQL, Hasura, tRPC, Adobe XD, Blockchain, Solidity, Smart Contract, Web3.js
+💥 Blockchain: Smart contract, Dex, Dapp, Defi, Wallet development, Trading bots, Daos
 
 
 ## 💫 My🌟BEST🌟 SKILLS
@@ -70,10 +70,6 @@
       <br>Svelte
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
-      <br>WordPress
-    </td>
-    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
       <br>Typescript
     </td>
@@ -105,47 +101,36 @@
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
       <br>RestAPI
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="45" height="45" />
+      <br>electron
+    </td>
+    	
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=d3" width="45" height="45" alt="D3.js" />
-      <br>D3.js
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+      <br>Solidity
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
-      <br>MaterialUI
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <br>Rust
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
-      <br>Tailwind
+      <img src="https://skillicons.dev/icons?i=haskell" width="45" height="45" alt="haskell" />
+      <br>Haskell
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" />
-      <br>HTML
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
-      <br>CSS
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
+      <br>Go
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="55" height="55" />
       <br>Sass
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=babel" width="45" height="45" alt="babel" />
-      <br>Babel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-      <br>Three.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-      <br>Solidity
+      <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="AI" />
+      <br>AI
     </td>
   </tr>
   <tr>
